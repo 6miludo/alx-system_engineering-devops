@@ -1,5 +1,1 @@
-#!/bin/bash
-pwd__
-cat >0-current_working_directory <<__EOF__
-#!/bin/bash
-pwd
+
